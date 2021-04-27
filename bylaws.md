@@ -5,7 +5,7 @@
 - The association has its headquarters in Göteborg, Sweden. 
 - This is a non-profit association, religiously and politically independent. 
 - The association is registered with Sverok. 
-- The goal of the association is to meet new friends by organizing and participating in board games & tabletop games events. 
+- The association's goal is to meet new friends by organizing and participating in board games and tabletop games events.
 - The association works according to the principle of equal treatment so that all members may have the same opportunities and abilities to participate in and influence its operations. 
 - The association’s business year starts on the 1st of July and ends on the 30th of June. 
 
