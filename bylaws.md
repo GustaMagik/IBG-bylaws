@@ -9,24 +9,33 @@
 - The association works according to the principle of equal treatment so that all members may have the same opportunities and abilities to participate in and influence its operations. 
 - The association’s business year starts on the 1st of July and ends on the 30th of June. 
 
-## §2 Becoming a member 
+## §2 Membership
 
-- Everyone accepting the association’s bylaws has the right to become a member. 
-- One becomes a member by registering membership in writing. 
-- The yearly meeting may decide that it is free to become a member or that the association will have a membership fee. 
-- If there is a membership fee then it must be paid in full before a person can be counted as a member. 
-- Members have the right to receive information about the association, participate and vote during the yearly meeting and be elected as Board Members or Members of the Election Comity. 
-- Members must follow the association’s bylaws and rules, keep their contact details updated and show respect to other members. 
+### 2.1 Gaining Membership
 
-## §3 Ending membership 
+- To gain membership the applicant must:
+  1. Read and accept the associations bylaws.
+  2. Pay the annual membership fee, if any.
+  3. Register themselves with the association.
+- The membership is valid until the end of the current business year. 
 
-- Membership is valid until the next yearly meeting but at the minimum until the end of the business year. 
+### 2.2 Rights and Responsibilities
+
+- Members have the right to receive information about the association.
+- Members have the right to participate and vote during the yearly meeting.
+- Members have the right to be elected by the annual meeting as Board Members, Controllers, or Members of the Election Comity. 
+- Members must follow the association’s bylaws and rules.
+- Members must report changes to their contact details to the association.
+- Members must show respect to other members.
+
+### 2.3 Revoking Membership
+
 - A member wishing the leave the association earlier shall say so to the Board in writing. The person is then no longer considered a member. 
 - A member misbehaving may be suspended by the association’s Board. The next yearly meeting will then decide whether or not the member shall be excluded. 
 - A member who is suspended has the right to participate in the yearly meeting and to vote regarding whether or not he or she should be excluded. 
-- The Board and yearly meeting may cancel suspensions and exclusions.
+- The Board and the yearly meeting may cancel suspensions and exclusions.
 
-## §4 The Board
+## §3 The Board
 
 - The Board is in charge of the association’s money, operations, member list, yearly meeting and everything decided during the yearly meeting. 
 - The Board should be composed of at least three people including a Chairman. 
@@ -35,21 +44,21 @@
 - The Board is elected during the yearly meeting and assumes its responsibilities as soon as the meeting is over. 
 - Every member of the association can be elected as Member of the Board. 
 
-## §5 The Controller
+## §4 The Controller
 
 - The Controller’s assignment is to control the Board’s work and communicate it during the next yearly meeting. 
 - The association should have one or two Controllers. 
 - Board Members cannot be elected as Controllers. 
 - The Controller does not need to be member of the association. 
 
-## §6 The Election Comity
+## §5 The Election Comity
 
 - The association can have an Election Comity. 
 - The Election Comity’s assignment is to suggest people for the elections during the yearly meeting. 
 - Every member of the association can be elected as Members of the Election Comity. 
 - If there is no Election Comity then the Board will be in charge of these tasks. 
 
-## §7 Yearly Meeting
+## §6 Yearly Meeting
 
 - The yearly meeting will take place at the latest on the 30th of June each year. 
 - For the meeting to be considered valid, the members of the association must have been warned in person at least two weeks in advance. The members must be informed of the meeting’s time, location and agenda. 
@@ -73,7 +82,7 @@
   - Election of the year’s Election Comity 
   - Meeting’s closure 
 
-## §8 Vote
+## §7 Vote
 
 - Every member present during the yearly meeting has one vote each. 
 - During a vote, the alternative that gathers the most votes wins. 
@@ -85,12 +94,12 @@
 - If there’s no majority twice in a row then the alternative counts as refused. 
 - Votes that are not for or against an alternative do not count. 
 
-## §9 Modifying the bylaws
+## §8 Modifying the bylaws
 
 - The association’s bylaws can only be altered during a yearly meeting, if the suggestion to modify them is included in the invitation.
 - For the change to take place, there must be at least twice as many votes for the change than against it. 
 
-## §10 Closure
+## §9 Closure
 
 - The yearly meeting can decide that the association will close down. The association cannot be closed down as long as at least three members want to run it. 
 - If the association closes down then all of its debts shall be paid and the bank account closed. 
