@@ -54,7 +54,6 @@
 - The yearly meeting will take place at the latest on the 30th of June each year. 
 - For the meeting to be considered valid, the members of the association must have been warned in person at least two weeks in advance. The members must be informed of the meeting’s time, location and agenda. 
 - If every member in the association accepts it, the meeting may still be considered valid even if the invitations were sent less than two weeks before the meeting date. 
-- If the Board, the Controller or at least a fourth of the association’s members wish to do so, the association will organize an additional yearly meeting. It can take place any time during the year. Extra yearly meetings are subject to the same requirements as the regular one when it comes to their validity. During an extra yearly meeting, only the agenda sent in the invitations can be brought up. 
 - The following should always be bought up during a regular yearly meeting: 
   - Meeting’s opening 
   - Decision regarding the meeting’s validity
@@ -72,6 +71,13 @@
   - Election of the year’s Controller 
   - Election of the year’s Election Comity 
   - Meeting’s closure 
+
+### Extra Annual Meeting
+
+- If the Board, the Controller or at least a fourth of the association’s members wish to do so, the association will organize an additional yearly meeting. 
+- It can take place any time during the year. 
+- Extra yearly meetings are subject to the same requirements as the regular one when it comes to their validity. 
+- During an extra yearly meeting, only the agenda sent in the invitations can be brought up. 
 
 ## §8 Vote
 
