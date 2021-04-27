@@ -11,7 +11,7 @@
 
 ## §2 Becoming a member 
 
-- Everyone accepting the association’s bylaws has the right to become a member. 
+- Anyone accepting the association’s bylaws has the right to become a member. 
 - One becomes a member by registering membership in writing. 
 - The yearly meeting may decide that it is free to become a member or that the association will have a membership fee. 
 - If there is a membership fee then it must be paid in full before a person can be counted as a member. 
