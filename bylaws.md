@@ -33,7 +33,6 @@
 - The Board divides responsibilities among its members. 
 - The Board decides which Board Members are allowed to sign contracts in the name of the association. These are called Authorized Signatories. 
 - The Board is elected during the yearly meeting and assumes its responsibilities as soon as the meeting is over. 
-- Every member of the association can be elected as Member of the Board. 
 
 ## §5 The Controller
 
@@ -46,7 +45,6 @@
 
 - The association can have an Election Comity. 
 - The Election Comity’s assignment is to suggest people for the elections during the yearly meeting. 
-- Every member of the association can be elected as Members of the Election Comity. 
 - If there is no Election Comity then the Board will be in charge of these tasks. 
 
 ## §7 Yearly Meeting
