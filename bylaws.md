@@ -81,9 +81,6 @@
 - If the vote is about electing someone and there’s no majority twice in a row, chance will decide. 
 - Votes that are not for or against an alternative do not count. 
 - Any Board Members participating in Board meetings has the right to vote. 
-- During a vote, the alternative that gathers the most votes wins. 
-- If there’s no majority twice in a row then the alternative counts as refused. 
-- Votes that are not for or against an alternative do not count. 
 
 ## §9 Modifying the bylaws
 
